@@ -32,6 +32,7 @@
   "dependencies": {
     "babel": "^5.1.8",
     "create-error": "^0.3.1",
+    "crypto-js": "^3.1.9-1",
     "localforage": "^1.2.3",
     "lodash.flatten": "^4.1.1",
     "node-localstorage": "^0.5.1",
@@ -49,11 +50,11 @@
     "config": "^1.12.0",
     "coveralls": "^2.11.4",
     "istanbul": "^0.3.14",
-    "mocha": "^2.1.0",
     "licensify": "^1.4.0",
+    "lodash-cli": "^4.5.0",
+    "mocha": "^2.1.0",
     "stubcell": "^0.8.0",
     "uglifyify": "^3.0.1",
-    "lodash-cli": "^4.5.0",
     "yuidocjs": "^0.10.2"
   },
   "browser": {
